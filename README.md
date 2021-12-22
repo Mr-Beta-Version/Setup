@@ -1,5 +1,5 @@
-# setup
-Termux Setup Command
+# Setup
+Termux Basic Setup Command
 
 $cd
 
@@ -7,9 +7,9 @@ $ pkg install git
 
 $ pkg install python2
 
-$ git clone https://github.com/BlackB07/setup
+$ git clone https://github.com/Mr-Beta-Version/Setup
 
-$ cd setup
+$ cd Setup
 
 $ python2 setup.py
 
